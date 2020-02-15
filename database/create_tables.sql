@@ -1,3 +1,5 @@
+USE conference_app;
+
 CREATE TABLE attendees
 (
     attendee_id  SERIAL PRIMARY KEY,
